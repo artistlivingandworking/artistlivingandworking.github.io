@@ -1,20 +1,26 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js">
-<!--<![endif]-->
+<html>
+    {% include head.html %}
 
-{% include head.html %}
-	
 	<body>
-		<!--[if lt IE 8]>
-		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-		<![endif]-->
-				
-		{{ content }}
-		
+        <section class="section">
+	        <div class="columns">
+                <div class="column is-2">
+                    {% include nav.html %}
+                </div>			
+                <div class="column is-10 is-main-content">
+                    <h2><b><a href="{{ site.url }}">
+                        ( {{ site.tagline }} )
+                    </a></b></h2>
+                    {% if page.title %}
+                    <h1 class='title is-2'>{{ page.title }}</h1>
+                    {% endif %}
+
+		            {{ content }}
+                </div>
+            </div>
+        </section>
+        {% include footer.html %}
 	</body>
 </html>
 
