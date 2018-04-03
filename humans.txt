@@ -3,13 +3,4 @@
 
 # TEAM
 
-    <Garrett Boatman> -- <Developer> -- <garrettboatman>
-
-# THANKS
-
-    <Run The Jewels 2>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3, JQuery
-    HTML5 Boilerplate
+Made by Micha Gorelick <mynameisfiber> using the bare-bones Jekyll template by Garrett Boatman <garrettboatman>
