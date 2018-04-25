@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Calendar
 ---
 
-# Upcoming
-{:.title}
+## Upcoming
+{:.title .is-4}
 
 ### May 6, 2018
 
@@ -17,8 +18,8 @@ come and go as you wish, $15 at the door
 
 ---
 
-# Archive
-{:.title}
+## Archive
+{:.title .is-4}
 
 ### June 3, 2016
 
