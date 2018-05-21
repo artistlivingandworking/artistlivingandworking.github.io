@@ -16,6 +16,8 @@ McCarren Park, Brooklyn
 
 live performance at the Brooklyn Art Book Fair
 
+---
+
 ### June 3, 2018
 
 *No dancing?!*
@@ -40,6 +42,8 @@ Vital Joint, 106 Meserole Street
 4:30pm - 7:30pm
 
 come and go as you wish, $15 at the door
+
+---
 
 ### June 3, 2016
 
