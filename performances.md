@@ -6,6 +6,33 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
+### May 26, 2018
+
+*NO DANCING (A proposal...)*
+
+McCarren Park, Brooklyn
+
+4pm
+
+live performance at the Brooklyn Art Book Fair
+
+---
+
+### June 3, 2018
+
+*No dancing?!*
+
+La MaMa Moves! Festival, "The Downstairs" (66 E 4th Street)
+
+5pm - 8pm
+
+come and go as you wish, $15 at the door, tickets [here](https://web.ovationtix.com/trs/pe.c/10269700)
+
+---
+
+## Archive
+{:.title .is-4}
+
 ### May 6, 2018
 
 *NO DANCING (A proposal...)*
@@ -17,9 +44,6 @@ Vital Joint, 106 Meserole Street
 come and go as you wish, $15 at the door
 
 ---
-
-## Archive
-{:.title .is-4}
 
 ### June 3, 2016
 
