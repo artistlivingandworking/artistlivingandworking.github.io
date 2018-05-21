@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class='columns is-multiline post-listing'>
+    {% for post in site.posts %}
+        <div class='column is-4'>
+            <a href="{{ post.url }}">
+                <figure class='image post-cover'>
+                    <img src="{{ post.cover }}">
+                    <span>{{ post.title }}</span>
+                </figure>
+            </a>
+        </div>
+    {% endfor %}
+</div>

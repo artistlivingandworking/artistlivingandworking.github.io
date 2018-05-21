@@ -1,0 +1,73 @@
+---
+name: gallery
+layout: default
+---
+
+<script src="/assets/js/imgur.js"></script>
+
+<div class="modal" id='imageModal'>
+    <div class="modal-background modal-closer"></div>
+    <div class="modal-content">
+        <p class='image'>
+            <img>
+        </p>
+    </div>
+    <button class="modal-close is-large modal-closer" aria-label="close"></button>
+</div>
+
+
+{% assign content = content | strip %}
+{% if content != '' %}
+    <section class='section'>
+        {{ content }}
+    </section>
+{% endif %}
+
+
+<div class='gallery columns is-multiline'>
+    {% for items in page.gallery %}
+        {% for item in items %}
+            {% assign name = item[0] %}
+            {% assign hash = item[1] %}
+            {% if name == 'vimeo' %}
+                <figure class="video column is-4">
+                    <iframe src="//player.vimeo.com/video/{{ hash }}?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=666666"
+                            width="100%" height="100%" 
+                            frameborder="0" scrolling="no"
+                            allowfullscreen="true">
+                    </iframe>
+                </figure>
+            {% elsif name == 'youtube' %}
+                <figure class="video column is-4">
+                    <iframe src="https://www.youtube-nocookie.com/embed/{{ hash }}"
+                            frameborder="0" allow="autoplay; encrypted-media"
+                            width="100%" height=auto allowfullscreen>
+                    </iframe>
+                </figure>
+            {% elsif name == 'imgur' %}
+                <figure class='image is-128x128 column is-4' data-imgur={{ hash }}>
+                    <img src='/assets/images/loading.gif'>
+                </figure>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
+<script>
+$('*[data-imgur]').each(async function() {
+    var hash = $(this).data('imgur');
+    var items = await imgurAlbumItems(hash) ;
+    $(this).replaceWith(items);
+    $(".imgur a").click(function(event) {
+        event.preventDefault();
+        var link = $(this).attr('href');
+        console.log(link);
+        $("#imageModal img").attr('src', link);
+        $("#imageModal").toggleClass('is-active');
+    })
+});
+
+$('.modal-closer').click(function() {
+    $("#imageModal").toggleClass('is-active');
+})
+</script>

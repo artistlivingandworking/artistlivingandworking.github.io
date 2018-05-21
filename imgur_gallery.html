@@ -1,0 +1,41 @@
+---
+name: gallery
+layout: default
+---
+
+<script src="/assets/js/imgur.js"></script>
+
+<div class="modal" id='imageModal'>
+    <div class="modal-background modal-closer"></div>
+    <div class="modal-content">
+        <p class='image'>
+            <img>
+        </p>
+    </div>
+    <button class="modal-close is-large modal-closer" aria-label="close"></button>
+</div>
+
+<div class='gallery'>
+    <figure class='image is-128x128'>
+        <img src='/assets/images/loading.gif'>
+    </figure>
+</div>
+
+<script>
+$('.gallery figure').each(async function() {
+    var hash = window.location.hash.substring(1);
+    var items = await imgurAlbumItems(hash) ;
+    $(this).replaceWith(items);
+    $(".imgur a").click(function(event) {
+        event.preventDefault();
+        var link = $(this).attr('href');
+        console.log(link);
+        $("#imageModal img").attr('src', link);
+        $("#imageModal").toggleClass('is-active');
+    })
+});
+
+$('.modal-closer').click(function() {
+    $("#imageModal").toggleClass('is-active');
+})
+</script>
