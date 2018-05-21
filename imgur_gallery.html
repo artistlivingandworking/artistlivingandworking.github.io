@@ -5,6 +5,8 @@ layout: default
 
 <script src="/assets/js/imgur.js"></script>
 
+<h1 class='title is-2'></h1>
+
 <div class="modal" id='imageModal'>
     <div class="modal-background modal-closer"></div>
     <div class="modal-content">
@@ -15,8 +17,8 @@ layout: default
     <button class="modal-close is-large modal-closer" aria-label="close"></button>
 </div>
 
-<div class='gallery'>
-    <figure class='image is-128x128'>
+<div class='gallery columns is-multiline'>
+    <figure class='image is-128x128 column is-4' data-imgur={{ hash }}>
         <img src='/assets/images/loading.gif'>
     </figure>
 </div>
@@ -24,12 +26,13 @@ layout: default
 <script>
 $('.gallery figure').each(async function() {
     var hash = window.location.hash.substring(1);
-    var items = await imgurAlbumItems(hash) ;
+    var data = await imgurAlbumItems(hash) ;
+    $("h1").text(data.data.title);
+    var items = data.items;
     $(this).replaceWith(items);
     $(".imgur a").click(function(event) {
         event.preventDefault();
         var link = $(this).attr('href');
-        console.log(link);
         $("#imageModal img").attr('src', link);
         $("#imageModal").toggleClass('is-active');
     })

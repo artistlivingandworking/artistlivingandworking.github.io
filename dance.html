@@ -2,15 +2,56 @@
 layout: default
 ---
 
-<div class='columns is-multiline post-listing'>
-    {% for post in site.posts %}
-        <div class='column is-4'>
-            <a href="{{ post.url }}">
+<script src="/assets/js/imgur.js"></script>
+{% assign imgur_hashes = '' %}
+
+<div id='post-listing' class='columns is-multiline post-listing'>
+</div>
+
+<script>
+    function createPostListing(title, url, cover) {
+        return `<div class='column is-4'>
+            <a href="`+ url +`">
                 <figure class='image post-cover'>
-                    <img src="{{ post.cover }}">
-                    <span>{{ post.title }}</span>
+                    <img src="`+ cover +`">
+                    <span>`+ title +`</span>
                 </figure>
             </a>
-        </div>
+        </div>`;
+    }
+    var root = $('#post-listing');
+    {% for post in site.posts %}
+        root.append(createPostListing(
+            "{{ post.title }}",
+            "{{ post.url }}",
+            "{{ post.cover }}"
+        ));
+        {% for items in post.gallery %}
+            {% for item in items %}
+                {% assign name = item[0] %}
+                {% assign hash = item[1] %}
+                {% if name == 'imgur' %}
+                    {% assign imgur_hashes = imgur_hashes | append: ',' | append: hash %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
     {% endfor %}
-</div>
+
+    async function fillMissingAlbums() {
+        var imgur_hashes = new Set("{{ imgur_hashes }}".split(','));
+        var data = await imgurAlbums('{{ site.imgur }}');
+        for (var i in data) {
+            var album = data[i];
+            if (!imgur_hashes.has(album.id)) {
+                console.log('Creating tmp album for ' + album.id);
+                var element = createPostListing(
+                    album.title, 
+                    "/imgur_gallery#"+ album.id,
+                    "https://i.imgur.com/"+ album.cover +".jpg"
+                )
+                root.prepend(element);
+            }
+        }
+    }
+    fillMissingAlbums();
+</script>

@@ -56,7 +56,8 @@ layout: default
 <script>
 $('*[data-imgur]').each(async function() {
     var hash = $(this).data('imgur');
-    var items = await imgurAlbumItems(hash) ;
+    var data = await imgurAlbumItems(hash) ;
+    var items = data.items;
     $(this).replaceWith(items);
     $(".imgur a").click(function(event) {
         event.preventDefault();
