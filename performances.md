@@ -6,15 +6,27 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
-### May 26, 2018
 
-*NO DANCING (A proposal...)*
+### July 9-13, 2018
 
-McCarren Park, Brooklyn
+*stormy will be presenting a paper at the International Federation for Theatre Research Conference as part of the 'Choreography & Corporeality' Working Group*
 
-4pm
+Belgrade, Serbia
 
-live performance at the Brooklyn Art Book Fair
+---
+
+## Archive
+{:.title .is-4}
+
+### June 9, 2018
+
+*Static*
+
+Dancing for Phoebe Berglund, Villa Empain, Brussels
+
+2pm-5pm
+
+"Each composition repeats itself in a loop with very few changes or even no transformation; the dance is thus constructed of subtle transitions that create infinite variations of a single image." - Note from the choreographer
 
 ---
 
@@ -30,8 +42,17 @@ come and go as you wish, $15 at the door, tickets [here](https://web.ovationtix.
 
 ---
 
-## Archive
-{:.title .is-4}
+### May 26, 2018
+
+*NO DANCING (A proposal...)*
+
+McCarren Park, Brooklyn
+
+4pm
+
+live performance at the Brooklyn Art Book Fair
+
+---
 
 ### May 6, 2018
 
@@ -42,6 +63,85 @@ Vital Joint, 106 Meserole Street
 4:30pm - 7:30pm
 
 come and go as you wish, $15 at the door
+
+---
+
+### April 25, 2018
+
+*slow Wall Street women walk*
+
+The three original blocks of Wall Street, NYC
+
+8:15am-9am
+
+public performance comprised of a group of women walking slowly across Wall Street during morning rush hour
+
+---
+
+### March 12, 2018
+
+*Criminals of the Dream / Face the Music*
+
+Dancing for Nadia Tykulsker, Roulette, Brooklyn
+
+Face the Music youth orchestra performs Greg Saunier's _Criminals of the Dream_
+
+---
+
+### February 18, 2018
+
+*NO DANCING (a proposal...)*
+
+Vital Joint, 106 Meserole
+
+split bill with Lydia Mokdessi
+
+---
+
+### January 21, 2018
+
+*untitled showing*
+
+Dancing for Phoebe Berglund, MoMA P.S. 1, Queens NY
+
+2-4pm
+
+---
+
+### September 23, 2017
+
+*Riverboat*
+
+Bushwick Open Studios, Chez Bushwick Studio, Brooklyn
+
+4-6pm
+
+---
+
+### July 30, 2017
+
+*Resistance Fantasies*
+
+Workshop, taught through International Documentation of Contemporary Dance Education (IDOCDE) symposium
+
+ImPulsTanz Festival, Vienna, AUS
+
+
+### June 2-10, 2017
+
+*A dance project for 2017*
+
+public park, Philadelphia; Nature Art in the Park exhibit, opening reception, Baltimore; Local Produce Festival, Brooklyn; invited showing, Brooklyn
+
+site-responsive, time-based performance installation
+
+---
+
+### January 27-28 2017
+
+*This is disaster management.*
+
+Artist-in-Residence (Chez Bushwick) culmination performance, Center for Performance Research, Brooklyn
 
 ---
 
