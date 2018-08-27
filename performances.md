@@ -6,17 +6,17 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
-
-### July 9-13, 2018
-
-*stormy will be presenting a paper at the International Federation for Theatre Research Conference as part of the 'Choreography & Corporeality' Working Group*
-
-Belgrade, Serbia
-
+*check back in Fall 2018 for upcoming showings and performances*
 ---
 
 ## Archive
 {:.title .is-4}
+
+### July 9-13, 2018
+
+*stormy presented a paper at the International Federation for Theatre Research Conference as part of the 'Choreography & Corporeality' Working Group*
+
+Belgrade, Serbia
 
 ### June 9, 2018
 
@@ -32,13 +32,11 @@ Dancing for Phoebe Berglund, Villa Empain, Brussels
 
 ### June 3, 2018
 
-*No dancing?!*
+*NO DANCING (A proposal...)*
 
-La MaMa Moves! Festival, "The Downstairs" (66 E 4th Street)
+La MaMa Moves! Festival, AUNTS
 
 5pm - 8pm
-
-come and go as you wish, $15 at the door, tickets [here](https://web.ovationtix.com/trs/pe.c/10269700)
 
 ---
 
