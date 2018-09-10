@@ -5,11 +5,10 @@ layout: default
 
 <script src="/assets/js/imgur.js"></script>
 
-<div class="modal" id='imageModal'>
+<div class="modal" id='mediaModal'>
     <div class="modal-background modal-closer"></div>
     <div class="modal-content">
         <p class='image'>
-            <img>
         </p>
     </div>
     <button class="modal-close is-large modal-closer" aria-label="close"></button>
@@ -38,11 +37,10 @@ layout: default
                     </iframe>
                 </figure>
             {% elsif name == 'youtube' %}
-                <figure class="video column is-4">
-                    <iframe src="https://www.youtube-nocookie.com/embed/{{ hash }}"
-                            frameborder="0" allow="autoplay; encrypted-media"
-                            width="100%" height=auto allowfullscreen>
-                    </iframe>
+                <figure class="image video column is-4">
+                    <img src='https://img.youtube.com/vi/{{ hash }}/hqdefault.jpg'
+                         data-youtube={{ hash }}>
+                    <span><i class="fas fa-play-circle"></i></span>
                 </figure>
             {% elsif name == 'imgur' %}
                 <figure class='image is-128x128 column is-4' data-imgur={{ hash }}>
@@ -63,12 +61,28 @@ $('*[data-imgur]').each(async function() {
         event.preventDefault();
         var link = $(this).attr('href');
         console.log(link);
-        $("#imageModal img").attr('src', link);
-        $("#imageModal").toggleClass('is-active');
+        $("#mediaModal p").html($('<img>').attr('src', link));
+        $("#mediaModal").toggleClass('is-active');
+    })
+});
+
+$('*[data-youtube]').each(async function() {
+    var hash = $(this).data('youtube');
+    $(this).parent().click(function(event) {
+        event.preventDefault();
+        console.log(hash);
+        $("#mediaModal p").html(`
+            <div class='video-container'>
+            <iframe src="https://www.youtube-nocookie.com/embed/${hash}?autoplay=1"
+                       frameborder="0" allow="autoplay; encrypted-media"
+                       width="640px" height="385px" allowfullscreen>
+            </div>
+        `);
+        $("#mediaModal").toggleClass('is-active');
     })
 });
 
 $('.modal-closer').click(function() {
-    $("#imageModal").toggleClass('is-active');
+    $("#mediaModal").toggleClass('is-active');
 })
 </script>
