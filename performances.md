@@ -18,6 +18,8 @@ title: Calendar
 
 Belgrade, Serbia
 
+---
+
 ### June 9, 2018
 
 *Static*
