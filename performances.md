@@ -14,7 +14,7 @@ a dance performance and experimental conference presented by Exponential Festiva
 
 Target Margin Theater, Brooklyn
 
-6-9pm, $15 tickets, $10 artist tickets, contact dance@artistlivingandworking.lol for low income tickets. no one will be turned away!
+6-9pm, $15 tickets, $10 artist tickets, contact [dance@artistlivingandworking.lol](mailto:dance@artistlivingandworking.lol) for low income tickets. no one will be turned away!
 
 for more information, tickets, directions, and more, [CLICK HERE](http://www.theexponentialfestival.org/resistancefantasies).
 
