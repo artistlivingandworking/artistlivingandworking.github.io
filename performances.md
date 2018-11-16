@@ -6,7 +6,30 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
-*check back in Fall 2018 for upcoming showings and performances*
+### January 23-26, 2019
+
+*resistance fantasies: strategies for moving toward— and against—*
+
+a dance performance and experimental conference presented by Exponential Festival
+
+Target Margin Theater, Brooklyn
+
+6-9pm, $15 tickets, $10 artist tickets, contact dance@artistlivingandworking.lol for low income tickets. no one will be turned away!
+
+for more information, tickets, directions, and more, [CLICK HERE](http://www.theexponentialfestival.org/resistancefantasies).
+
+to support the rehearsal & production process [CLICK HERE](https://www.patreon.com/artlistlivingandworking).
+
+---
+
+### November 26, 2018
+
+*The Cops Are Studying!*
+
+a civil resistance drag performance at CUNY Graduate Center, with lead artist Rina Espiritu and artists Cory Tamler, Alex Viteri Arturo, Sierra Ortega, and many more
+
+2pm - 9pm, come and go as you wish. Bring cop costumes, come ready to study! A limited selection of costumes will be provided.
+
 ---
 
 ## Archive
