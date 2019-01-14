@@ -22,20 +22,27 @@ to support the rehearsal & production process [CLICK HERE](https://www.patreon.c
 
 this project is supported by Foundation for Contemporary Arts' Emergeny Grant, Materials for the Arts, Pentacle, and countless individuals.
 
----
+
+## Archive
+{:.title .is-4}
 
 ### November 26, 2018
 
 *The Cops Are Studying!*
 
-a civil resistance drag performance at CUNY Graduate Center, with lead artist Rina Espiritu and artists Cory Tamler, Alex Viteri Arturo, Sierra Ortega, and many more
+a civil resistance drag performance at CUNY Graduate Center, with lead artist Rina Espiritu and artists Cory Tamler, Alex Viteri Arturo, and Sierra Ortega.
 
 2pm - 9pm, come and go as you wish. Bring cop costumes, come ready to study! A limited selection of costumes will be provided.
 
 ---
 
-## Archive
-{:.title .is-4}
+### September 8, 2018
+
+*resistance fantasies (work in progress showing)*
+
+a showing at Fast Forward Labs' office space in downtown Brooklyn.
+
+---
 
 ### July 9-13, 2018
 
