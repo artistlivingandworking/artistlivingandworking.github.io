@@ -10,15 +10,17 @@ title: Calendar
 
 *resistance fantasies: strategies for moving toward— and against—*
 
-a dance performance and experimental conference presented by Exponential Festival
+a dance performance and a series of somatic experiments presented by Exponential Festival
 
 Target Margin Theater, Brooklyn
 
-6-9pm, $15 tickets, $10 artist tickets, contact [dance@artistlivingandworking.lol](mailto:dance@artistlivingandworking.lol) for low income tickets. no one will be turned away!
+6-9pm, $20 tickets, $15 Artist Rate (code= STORMY15 for this discount)
 
-for more information, tickets, directions, and more, [CLICK HERE](http://www.theexponentialfestival.org/resistancefantasies).
+for tickets, [CLICK HERE](https://web.ovationtix.com/trs/cal/282/1546318800000).
 
 to support the rehearsal & production process [CLICK HERE](https://www.patreon.com/artlistlivingandworking).
+
+this project is supported by Foundation for Contemporary Arts' Emergeny Grant, Materials for the Arts, Pentacle, and countless individuals.
 
 ---
 
