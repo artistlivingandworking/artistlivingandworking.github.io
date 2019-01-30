@@ -6,7 +6,10 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
-## To Be Announced. Contact dance@artistlivingandworking.lol for booking information.
+## To Be Announced... 
+&& contact dance@artistlivingandworking.lol for booking information in Brooklyn + beyond.
+
+---
 
 ## Archive
 {:.title .is-4}
@@ -26,6 +29,8 @@ for tickets, [CLICK HERE](https://web.ovationtix.com/trs/cal/282/1546318800000).
 to support the rehearsal & production process [CLICK HERE](https://www.patreon.com/artlistlivingandworking).
 
 this project is supported by Foundation for Contemporary Arts' Emergeny Grant, Materials for the Arts, Pentacle, and countless individuals.
+
+---
 
 ### November 26, 2018
 
