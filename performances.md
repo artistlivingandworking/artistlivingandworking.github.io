@@ -6,6 +6,11 @@ title: Calendar
 ## Upcoming
 {:.title .is-4}
 
+## To Be Announced. Contact dance@artistlivingandworking.lol for booking information.
+
+## Archive
+{:.title .is-4}
+
 ### January 23-26, 2019
 
 *resistance fantasies: strategies for moving toward— and against—*
@@ -21,10 +26,6 @@ for tickets, [CLICK HERE](https://web.ovationtix.com/trs/cal/282/1546318800000).
 to support the rehearsal & production process [CLICK HERE](https://www.patreon.com/artlistlivingandworking).
 
 this project is supported by Foundation for Contemporary Arts' Emergeny Grant, Materials for the Arts, Pentacle, and countless individuals.
-
-
-## Archive
-{:.title .is-4}
 
 ### November 26, 2018
 
