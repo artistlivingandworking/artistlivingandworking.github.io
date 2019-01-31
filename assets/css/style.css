@@ -121,3 +121,16 @@ hr {
   height: 100%;
 }
 
+.gallery figcaption {
+    display: none;
+}
+
+figcaption {
+    color: #1fffb8;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.is-title-video {
+    margin: auto;
+}

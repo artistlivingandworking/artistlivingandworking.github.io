@@ -29,23 +29,29 @@ layout: default
             {% assign name = item[0] %}
             {% assign hash = item[1] %}
             {% if name == 'vimeo' %}
-                <figure class="video column is-4">
+              <div class="column is-4">
+                <figure class="video">
                     <iframe src="//player.vimeo.com/video/{{ hash }}?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=666666"
                             width="100%" height="100%" 
                             frameborder="0" scrolling="no"
                             allowfullscreen="true">
                     </iframe>
                 </figure>
+              </div>
             {% elsif name == 'youtube' %}
-                <figure class="image video column is-4">
+              <div class="column is-4">
+                <figure class="image video">
                     <img src='https://img.youtube.com/vi/{{ hash }}/hqdefault.jpg'
                          data-youtube={{ hash }}>
                     <span><i class="fas fa-play-circle"></i></span>
                 </figure>
+              </div>
             {% elsif name == 'imgur' %}
-                <figure class='image is-128x128 column is-4' data-imgur={{ hash }}>
+              <div class="column is-4" data-imgur={{ hash }}>
+                <figure class='image is-128x128'>
                     <img src='/assets/images/loading.gif'>
                 </figure>
+              </div>
             {% endif %}
         {% endfor %}
     {% endfor %}
@@ -60,8 +66,8 @@ $('*[data-imgur]').each(async function() {
     $(".imgur a").click(function(event) {
         event.preventDefault();
         var link = $(this).attr('href');
-        console.log(link);
-        $("#mediaModal p").html($('<img>').attr('src', link));
+        console.log(this.parentElement);
+        $("#mediaModal p").html(this.parentElement.cloneNode(true));
         $("#mediaModal").toggleClass('is-active');
     })
 });
@@ -83,6 +89,7 @@ $('*[data-youtube]').each(async function() {
 });
 
 $('.modal-closer').click(function() {
+    $("#mediaModal p").html('');
     $("#mediaModal").toggleClass('is-active');
 })
 </script>
