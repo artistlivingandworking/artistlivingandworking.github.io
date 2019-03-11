@@ -1,43 +1,70 @@
 ---
 layout: default
-title: LEAVE A MESSAGE
+title: CONTACT
 ---
 
-<div class='form'>
-<form method="POST" action="https://formspree.io/{{ site.email }}">
-    <div class='field'>
-        <label class="label">Your Name:</label>
-        <div class="control has-icons-left">
-            <input class="input" name="Name" />
-            <span class="icon is-small is-left">
-              <i class="fas fa-user"></i>
-            </span>
+<section>
+  <div class='form'>
+    <h3> NEWSLETTER SIGNUP </h3>
+    <form action="https://lol.us18.list-manage.com/subscribe/post?u=28e5fb76c796d4643370c023f&amp;id=134daf85f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class='field is-horizontal'>
+            <div class='field'>
+                <div class="control has-icons-left">
+                    <input class="input" name="EMAIL" type='email' />
+                    <span class="icon is-small is-left">
+                      <i class="fas fa-envelope"></i>
+                    </span>
+                </div>
+            </div>
+    
+            <div class='field'>
+                <input class=" button" name="subscribe" value="Subscribe" type="submit" />
+            </div>
         </div>
-    </div>
-    <div class='field'>
-        <label class="label">Your Email:</label>
-        <div class="control has-icons-left">
-            <input class="input" name="_replyto" type='email' />
-            <span class="icon is-small is-left">
-              <i class="fas fa-envelope"></i>
-            </span>
+    </form>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <div class='form'>
+    <h3> SEND A MESSAGE </h3>
+    <form method="POST" action="https://formspree.io/{{ site.email }}">
+        <div class='field'>
+            <label class="label">Your Name:</label>
+            <div class="control has-icons-left">
+                <input class="input" name="Name" />
+                <span class="icon is-small is-left">
+                  <i class="fas fa-user"></i>
+                </span>
+            </div>
         </div>
-    </div>
-    <div class='field'>
-        <label class="label">Your Phone:</label>
-        <div class="control has-icons-left">
-            <input class="input" name="Phone" type='tel' />
-            <span class="icon is-small is-left">
-              <i class="fas fa-phone"></i>
-            </span>
+        <div class='field'>
+            <label class="label">Your Email:</label>
+            <div class="control has-icons-left">
+                <input class="input" name="_replyto" type='email' />
+                <span class="icon is-small is-left">
+                  <i class="fas fa-envelope"></i>
+                </span>
+            </div>
         </div>
-    </div>
-    <div class='field'>
-        <label class="label">Message:</label>
-        <textarea class="textarea" name="Content"></textarea>
-    </div>
-    <div class='field'>
-        <input class=" button" name="submit" value="Leave a Message" type="submit" />
-    </div>
-</form>
-</div>
+        <div class='field'>
+            <label class="label">Your Phone:</label>
+            <div class="control has-icons-left">
+                <input class="input" name="Phone" type='tel' />
+                <span class="icon is-small is-left">
+                  <i class="fas fa-phone"></i>
+                </span>
+            </div>
+        </div>
+        <div class='field'>
+            <label class="label">Message:</label>
+            <textarea class="textarea" name="Content"></textarea>
+        </div>
+        <div class='field'>
+            <input class=" button" name="submit" value="Leave a Message" type="submit" />
+        </div>
+    </form>
+  </div>
+</section>

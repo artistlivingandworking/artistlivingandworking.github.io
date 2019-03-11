@@ -1,5 +1,5 @@
 body, html {
-    background-color: #1fffb8;
+    background-color: #beb9c9;
     height: 100%;
 
     color: #000;
@@ -78,7 +78,7 @@ hr {
 .post-cover span {
     font-weight: bold;
     font-size: 1.75em;
-    text-shadow: 0px 0px 5px #000, 0px 0px 10px #1fffb8;
+    text-shadow: 0px 0px 5px #000, 0px 0px 10px #32696e;
 
     position: absolute;
     top: 50%;
@@ -126,7 +126,7 @@ hr {
 }
 
 figcaption {
-    color: #1fffb8;
+    color: #32696e;
     font-size: 1.2em;
     text-align: center;
 }
