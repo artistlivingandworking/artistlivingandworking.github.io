@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title:  "resistance fantasies"
-cover: https://i.imgur.com/WQexr5u.jpg
+cover: https://imgur.com/ZAS9blg
 gallery:
     - imgur: OmUlAEO
 ---
