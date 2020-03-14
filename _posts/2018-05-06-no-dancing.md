@@ -8,5 +8,6 @@ gallery:
     - imgur: egmNZTB
 ---
 
-Performance announcements here https://hyperallergic.com/443926/brooklyn-book-fair-endless-editions/ 
-& here http://lamama.org/aunts/
+Performances by Aye Eckerson, Ann-Marie Gover, Leanna Grennan, Ella Misko (storm reads the story of No Dancing)
+
+[<<Read the performance announcements for Brooklyn Art Book Festival here>>] (https://hyperallergic.com/443926/brooklyn-book-fair-endless-editions/) and La MaMa Moves! [<<here.>>] (http://lamama.org/aunts/)
