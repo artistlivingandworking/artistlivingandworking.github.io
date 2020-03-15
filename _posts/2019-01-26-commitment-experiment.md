@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Commitment Experiment
+title: commitment experiment
 cover: https://i.imgur.com/iNpC6uF.jpg
 gallery:
   - imgur: c3WfBCU
