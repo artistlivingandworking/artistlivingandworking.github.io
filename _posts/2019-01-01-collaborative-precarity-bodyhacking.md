@@ -1,3 +1,4 @@
+---
 layout: gallery
 title: "collaborative precarity bodyhacking"
 cover: https://imgur.com/S04jx0x.jpg
