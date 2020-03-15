@@ -3,11 +3,24 @@ layout: default
 title: Calendar
 ---
 
-## Upcoming
+## Ongoing & Upcoming
 {:.title .is-4}
 
-## To Be Announced... 
-&& contact dance@artistlivingandworking.lol for booking information in Brooklyn + beyond.
+hi,
+
+from 2019 - 2021 i will be working as artist-student-researcher at exerce master program in Montpellier, France. exerce is housed by one of France's 19 National Choreographic Centers (CCNs), this one called the institut choregraphique international (ICI-CCN) directed by Christian Rizzo. (if you are in the states, our equivalents are NCCAkron and MANCC.) i write this update a little half way through my first year in residence here. please be in touch if you want to hear more about the program, see work created under the choreographic center's umbrella, hear about the culture of contemporary dance in france, visit, collaborate. my master publication takes place in may/june of 2020 and 2021. details forthcoming.
+link to upcoming performances at the ICI-CCN, [here.](http://ici-ccn.com/)
+
+an upcoming residency... thanks to the generous invitation of curators Victorine Grateloup and Virginie Bobin (Bobin edited one of my favorite texts, Composing Differences...read it! we need it in times like these!) i will displace my work from the studio space to the gallery, engaging with their exhibition Qalqalah: Plus d'une langue at Centre Regional d'Art in Sete (FR). I will research translation-with-the-body and listening-for-too-long as method. This research residency is emergent and i'm excited to see what it brings. i begin in march 2020 and continue through may 2020.
+
+i'm in constant exchange with Hungry Mothers (HM), a transdisciplinary and planetary collective of performance artists responding to issues of land sovereignty and dealing with (our own) climate grief. right now, in collaboration with HM founder Tyler Rai, I am working with LOAM publications to create a field guide collating some of our work (texts, practices, images) as hungry mothers. Hungry Mothers recently co-facilitated movement-based healing workshops with en la Frontera in New Mexico. our projects together as a constellation of spread-out artists will continue to co-emerge and co-occur in summer 2020.
+link to Hungry Mothers, [here](https://www.hungrymothers.org/about)
+link to our partner LOAM, (who does such beautiful work!), [here](https://loamlove.com/about)
+
+performance work... right now, research and production development are co-evolving for this project i am making now, with working title   Run for your life or save a friend! 
+please contact info@artistlivingandworking.lol to discuss the contours of the work / where the process is now <3
+love,
+storm
 
 ---
 
