@@ -6,7 +6,7 @@ title: Calendar
 ## Ongoing & Upcoming
 {:.title .is-4}
 
-hi,
+hi, thank you for navigating to this calendar!
 
 from 2019 - 2021 i will be working as artist-student-researcher at exerce master program in Montpellier, France. exerce is housed by one of France's 19 National Choreographic Centers (CCNs), this one called the institut choregraphique international (ICI-CCN) directed by Christian Rizzo. (if you are in the states, our equivalents are NCCAkron and MANCC.) i write this update a little half way through my first year in residence here. please be in touch if you want to hear more about the program, see work created under the choreographic center's umbrella, hear about the culture of contemporary dance in france, visit, collaborate. my master publication takes place in may/june of 2020 and 2021. details forthcoming.
 link to upcoming performances at the ICI-CCN, [here.](http://ici-ccn.com/)
