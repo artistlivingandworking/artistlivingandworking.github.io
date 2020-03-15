@@ -3,7 +3,7 @@ layout: gallery
 title: Commitment Experiment
 cover: https://i.imgur.com/iNpC6uF.jpg
 gallery:
-  - imgur:c3WfBCU
+  - imgur: c3WfBCU
 ---
 
 Performance Practices workshop facilitated by Commitment Experiment
