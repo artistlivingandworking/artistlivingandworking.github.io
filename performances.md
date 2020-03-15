@@ -17,7 +17,7 @@ i'm in constant exchange with Hungry Mothers (HM), a transdisciplinary and plane
 link to Hungry Mothers, [here](https://www.hungrymothers.org/about)
 link to our partner LOAM, (who does such beautiful work!), [here](https://loamlove.com/about)
 
-performance work... right now, research and production development are co-evolving for this project i am making now, with working title   Run for your life or save a friend! 
+performance work... right now, research and production development are co-evolving for the project i am building, with working title   Run for your life or save a friend! 
 please contact info@artistlivingandworking.lol to discuss the contours of the work / where the process is now <3
 love,
 storm
