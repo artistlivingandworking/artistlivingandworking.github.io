@@ -1,24 +1,33 @@
 ---
 layout: default
-title: Calendar
+title: NEWS
 ---
 
 ## Ongoing & Upcoming
 {:.title .is-4}
 
-hi, thank you for navigating to this calendar!
+                               2020 AUGUST
+Feeling a deep connection to Valentina Desideri & Stefano Harney's conversation on "fate work" at [Ephemera Journal](http://ephemerajournal.org/contribution/fate-work-conversation). A brief excerpt on the distinction between intentional and strategic work:
 
-from 2019 - 2021 i will be working as artist-student-researcher at exerce master program in Montpellier, France. exerce is housed by one of France's 19 National Choreographic Centers (CCNs), this one called the institut choregraphique international (ICI-CCN) directed by Christian Rizzo. (if you are in the states, our equivalents are NCCAkron and MANCC.) i write this update a little half way through my first year in residence here. please be in touch if you want to hear more about the program, see work created under the choreographic center's umbrella, hear about the culture of contemporary dance in france, visit, collaborate. my master publication takes place in may/june of 2021. details forthcoming.
-link to upcoming performances at the ICI-CCN, [here.](http://ici-ccn.com/)
+"Strategy and intention are very different. To have a strategy is to have one fate or future we envision and that we try to realize, while to have an intention means to start from the present and stay there while the future anyway happens and fates (many) unfold. If for example we set an intention ‘to work together’ maybe we could just continue writing and see what it produces and how it happens" (161).
 
-an upcoming residency, POSTPONED... thanks to the generous invitation of curators Victorine Grateloup and Virginie Bobin (Bobin edited one of my favorite texts, Composing Differences...read it! we need it in times like these!) i will displace my work from the studio space to the gallery, engaging with their exhibition Qalqalah: Plus d'une langue at Centre Regional d'Art in Sete (FR). I will research translation-with-the-body and listening-for-too-long as method. This research residency is emergent and i'm excited to see what it brings. i begin in march 2020 and continue through may 2020.
+Also feeling very nourished by jumatatu m. poe's [Field Stories, Study Sessions](https://www.jumatatu.org/project/study-sessions/) project. A brief excerpt about how jumatatu, in collaboration with producer Día Bùi, is framing these sessions:
 
-i'm in constant exchange with Hungry Mothers (HM), a transdisciplinary and planetary collective of performance artists responding to issues of land sovereignty and dealing with (our own) climate grief. right now, in collaboration with HM founder Tyler Rai, I am working with LOAM publications to create a field guide collating some of our work (texts, practices, images) as hungry mothers. Hungry Mothers recently co-facilitated movement-based healing workshops with en la Frontera in New Mexico. our projects together as a constellation of spread-out artists will continue to co-emerge and co-occur in summer 2020.
-link to Hungry Mothers, [here](https://www.hungrymothers.org/about)
-link to our partner LOAM, (who does such beautiful work!), [here](https://loamlove.com/about)
+"jumatatu m. poe hosts conversations and Facebook and Instagram with Black and Indigenous artists from the lands currently known as the US and Brazil about what they have, what they want, and ESPECIALLY where to go from here. This conversation series is an imagining laboratory, centering Black and Indigenous dream work, and especially queer Black and Indigenous folks. In each session, jumatatu and a guest present a structure to deal with the what’s and how’s of “where do we go from here?"
 
-performance work... right now, research and production development are co-evolving for the project i am building, with working title   Run for your life or save a friend! 
-please contact info@artistlivingandworking.lol to discuss the contours of the work / where the process is now <3
+Thank you for this dream work!
+
+
+                               2020 APRIL
+*study work*... from 2019 - 2021 i will be working as artist-student-researcher at exerce master program in Montpellier, France. exerce is housed by one of France's 19 National Choreographic Centers (CCNs), this one called the institut choregraphique international (ICI-CCN). i write this update a little half way through my first year in residence here. my master publication takes place in may/june of 2021, but it's also already emergent, already iterative and becoming, already going on.
+link to the ICI-CCN, [here.](http://ici-ccn.com/)
+
+*constellatatory practice*... i am a member of [The Hungry Mothers Collective](https://www.hungrymothers.org/about), a transdisciplinary and trans-local collective of artists responding to issues of land sovereignty and dealing with (our own) climate grief. right now, in collaboration with founder Tyler Rai, we are working with [Loam publications](https://loamlove.com/about) to create a field guide collating some of our work (texts, practices, images) as hungry mothers. Hungry Mothers recently co-facilitated movement-based healing workshops with en la Frontera in New Mexico. our projects together as a constellation of artists will continue to co-emerge and co-occur in summer 2020.
+
+*performance research*... right now, research and production development are co-evolving for the project i am building, with working title Run for your life or save a friend! 
+
+please write to me dance@artistlivingandworking.lol to discuss the contours of any of these ongoing processes,
+
 love,
 storm
 
