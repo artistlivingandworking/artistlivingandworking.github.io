@@ -7,7 +7,8 @@ title: NEWS
 {:.title .is-4}
 
                                2020 AUGUST
-Feeling a deep connection to Valentina Desideri & Stefano Harney's conversation on "fate work" at [Ephemera Journal](http://ephemerajournal.org/contribution/fate-work-conversation). A brief excerpt on the distinction between intentional and strategic work:
+
+These days, I'm feeling a strong connection to Valentina Desideri & Stefano Harney's conversation on "fate work" at [Ephemera Journal](http://ephemerajournal.org/contribution/fate-work-conversation). A brief excerpt on the distinction between intentional and strategic work:
 
 "Strategy and intention are very different. To have a strategy is to have one fate or future we envision and that we try to realize, while to have an intention means to start from the present and stay there while the future anyway happens and fates (many) unfold. If for example we set an intention ‘to work together’ maybe we could just continue writing and see what it produces and how it happens" (161).
 
@@ -19,10 +20,11 @@ Thank you for this dream work!
 
 
                                2020 APRIL
+
 *study work*... from 2019 - 2021 i will be working as artist-student-researcher at exerce master program in Montpellier, France. exerce is housed by one of France's 19 National Choreographic Centers (CCNs), this one called the institut choregraphique international (ICI-CCN). i write this update a little half way through my first year in residence here. my master publication takes place in may/june of 2021, but it's also already emergent, already iterative and becoming, already going on.
 link to the ICI-CCN, [here.](http://ici-ccn.com/)
 
-*constellatatory practice*... i am a member of [The Hungry Mothers Collective](https://www.hungrymothers.org/about), a transdisciplinary and trans-local collective of artists responding to issues of land sovereignty and dealing with (our own) climate grief. right now, in collaboration with founder Tyler Rai, we are working with [Loam publications](https://loamlove.com/about) to create a field guide collating some of our work (texts, practices, images) as hungry mothers. Hungry Mothers recently co-facilitated movement-based healing workshops with en la Frontera in New Mexico. our projects together as a constellation of artists will continue to co-emerge and co-occur in summer 2020.
+*a constellatatory practice*... i am a member of [The Hungry Mothers Collective](https://www.hungrymothers.org/about), a transdisciplinary and trans-local collective of artists responding to issues of land sovereignty and dealing with (our own) climate grief. right now, in collaboration with founder Tyler Rai, we are working with [Loam publications](https://loamlove.com/about) to create a field guide collating some of our work (texts, practices, images) as hungry mothers. Hungry Mothers recently co-facilitated movement-based healing workshops with en la Frontera in New Mexico. our projects together as a constellation of artists will continue to co-emerge and co-occur in summer 2020.
 
 *performance research*... right now, research and production development are co-evolving for the project i am building, with working title Run for your life or save a friend! 
 
